@@ -39,14 +39,6 @@ Change config by set the corresponding environment variable name.
 
 *Currently google cloud does not supported due to app.json clash with heroku. Check out Google Cloud Run issue [#112](https://github.com/GoogleCloudPlatform/cloud-run-button/issues/112#issuecomment-663858778 "Both Cloud Run Button and Heroku Button - app.json Clash")*
 
-## How to run
-
-```sh
-#!/bin/sh
-
-# get leechpublic- source
-git clone https://github.com/devilboy04/leechpublic-.git
-
 ## Bot Details
 
 ### Specification
