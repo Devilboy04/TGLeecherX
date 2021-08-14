@@ -47,11 +47,6 @@ Change config by set the corresponding environment variable name.
 # get leechpublic- source
 git clone https://github.com/devilboy04/leechpublic-.git
 
-# build then execute using docker image
-docker build -t azamaulanaaa/botkaca botkaca
-docker run -it azamaulanaaa/botkaca
-```
-
 ## Bot Details
 
 ### Specification
