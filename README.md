@@ -1,3 +1,5 @@
+[![leechwaris](https://imagetot.com/images/2021/06/28/e8155fe3d87a1084d7cda5f4ecc5211c.jpg)](https://telegram.dog/cloudsmirror)
+
 # Modified By - 山卂尺丨丂 (https://telegra.ph/file/52752aa1105d397fd24ac.jpg)
 
 Botkaca allows you to leech (re-upload) contents from internet including torrent to telegram. This bot using Telegram MTProto powered by pyrogram.
