@@ -37,7 +37,6 @@ Change config by set the corresponding environment variable name.
 
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
-*Currently google cloud does not supported due to app.json clash with heroku. Check out Google Cloud Run issue [#112](https://github.com/GoogleCloudPlatform/cloud-run-button/issues/112#issuecomment-663858778 "Both Cloud Run Button and Heroku Button - app.json Clash")*
 
 ## Bot Details
 
