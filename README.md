@@ -1,6 +1,4 @@
-# Modified By - 山卂尺丨丂
-
-https://telegra.ph/file/52752aa1105d397fd24ac.jpg
+# Modified By - 山卂尺丨丂 (https://telegra.ph/file/52752aa1105d397fd24ac.jpg)
 
 Botkaca allows you to leech (re-upload) contents from internet including torrent to telegram. This bot using Telegram MTProto powered by pyrogram.
 
