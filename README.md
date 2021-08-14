@@ -1,4 +1,4 @@
-[![leechwaris](https://telegra.ph/file/52752aa1105d397fd24ac.jpg)](https://telegram.dog/cloudsmirror)
+[![leechwaris](https://telegra.ph/file/52752aa1105d397fd24ac.jpg)](https://telegram.dog/IamWarisAliOFFICIAL)
 
 # Modified By - 山卂尺丨丂 (https://telegra.ph/file/52752aa1105d397fd24ac.jpg)
 
